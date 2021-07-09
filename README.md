@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuisaFerCo
-- 👀 I’m interested in microservices development and in my spare time I like WorkOut as terapy and learning more More!.  
-- 🌱 I’m currently learning java Springboot Contenerization and AWS services
-- 💞️ I’m looking to collaborate on deployment microservices
+- 👀 I’m interested testing software with experiencie using tools such as selenium WebDriver, WinAppDriver, Appium and restAssured. I´m implement design patterns such as POM a Screenplay and Would like learn more about testContainers
+- 🌱 I’m currently improve my skills learning about Specflow
+- 💞️ I’m looking to collaborate any ideas, get me something !
 - 📫 How to reach me on email luisa.colorado.e@gmail.com 
 
-I´m have currently the challenge a microservice with java SpringBoot And I will use gitHub Actions on Amazon ECS to improve to deploy challenge microservice 
