@@ -1,0 +1,37 @@
+###carpetas ###
+idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/encodings.xml
+*/.idea/
+*/.sonarlint/
+*/.metadata/
+*/.recommenders/
+*/.gradle/
+src/.idea
+/.idea
+#Intellij
+*/.idea/
+*/.iml
+# Not ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+!*gradle-wrapper.jar
+
+#Java
+*/build/
+*/out/
+*/history/
+
+#Serenity
+*/target/
+
+#Gradle
+
+
+#Eclipse
+.classpath
+.project
+.settings/
+
+*/logs/
+/.metadata/
+/.recommenders/
