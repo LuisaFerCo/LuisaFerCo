@@ -8,8 +8,8 @@ import static net.serenitybdd.rest.SerenityRest.given;
 
 public class PetClient {
 
-    public static Response AddNewPet(Pet pet){
-        pet.getCategory().setId(589);
+    public static Response addNewPet(Pet pet){
+        pet.setId(5869);
         return given()
                 .spec(PetSpecs.createPetSpecs())
                 .when()
@@ -19,6 +19,18 @@ public class PetClient {
                     .extract()
                     .response();
     }
+
+    public static Response findPetById(String id){
+        return given()
+                .spec(PetSpecs.getPetById(id))
+                .when()
+                .get("/{petId}")
+                .then()
+                .spec(PetSpecs.successResponse())
+                .extract().response();
+    }
+
+
 
 
 
