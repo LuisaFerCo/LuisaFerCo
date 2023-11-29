@@ -11,8 +11,10 @@
 <br />
 As a passionate Test Automation Engineer with five years of experience, I thrive on embracing new technologies and sharing my knowledge with others. My guiding philosophy is that whoever teaches to others will learn twice. Currently immersed in challenging projects at Globant, I am enthusiastic about the continuous growth they bring to my career path.
 <br />
+<br />
 
 🌱 I’m currently learning Cypress
+
 👯 I’m looking to collaborate on projects with SerenityBDD
 <br />
 <h2>🚀 Some of the languages that I work with</h2>
